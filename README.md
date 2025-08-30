@@ -5,3 +5,7 @@ I conducted a mock security risk assessment for a fictional healthcare company u
 **Contents**
 - `risk_assessment_report.md` — my narrative of findings and actions
 - `nist_controls_risk_register.xlsx` — risk-to-control register with likelihood, impact, owner, status
+
+## Future Improvements
+- Add risk heat map
+- Automate scoring with a script
