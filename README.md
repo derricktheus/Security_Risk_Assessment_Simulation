@@ -9,3 +9,8 @@ I conducted a mock security risk assessment for a fictional healthcare company u
 ## Future Improvements
 - Add risk heat map
 - Automate scoring with a script
+
+
+## Objectives
+- Identify risks and score likelihood/impact
+- Map mitigations to NIST 800-53 controls
